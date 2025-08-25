@@ -1,3 +1,5 @@
 *
 !.gitignore
 !manage.py
+!movie_recommender/
+!movie_recommender/**
