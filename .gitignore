@@ -3,3 +3,5 @@
 !manage.py
 !movie_recommender/
 !movie_recommender/**
+!recommend/
+!recommend/**
